@@ -1,0 +1,13 @@
+brew install portaudio
+brew install sdl2
+brew install freeglut
+
+gem install ffi-portaudio
+gem install narray
+gem install fftw3
+gem install ruby-opengl
+gem install glu
+gem install gosu
+gem install glut
+
+ruby audiograph.rb 
